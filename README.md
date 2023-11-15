@@ -1,7 +1,7 @@
 Mitchell Toney  
 ID: 2423301  
 mtoney@chapman.edu  
-CPSC 350 04  
+CPSC 298 01
 
 # Classes
 

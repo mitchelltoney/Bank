@@ -5,9 +5,6 @@ CPSC 298 01
 
 # Classes
 
-### Contained Files:
-Bank.cpp, Bank.h, BankAccount.cpp, BankAccount.h, CheckingAccount.cpp, CheckingAccount.h, SavingsAccount.cpp, SavingsAccount.h, and main.cpp
-
 ## Program Function:
 * Allows for bank account activity simulation.
 
@@ -16,3 +13,6 @@ Bank.cpp, Bank.h, BankAccount.cpp, BankAccount.h, CheckingAccount.cpp, CheckingA
 g++ Bank.cpp BankAccount.cpp CheckingAccount.cpp SavingsAccount.cpp-o program
 ./program
 ```
+### Contained Files:
+Bank.cpp, Bank.h, BankAccount.cpp, BankAccount.h, CheckingAccount.cpp, CheckingAccount.h, SavingsAccount.cpp, SavingsAccount.h, and main.cpp
+

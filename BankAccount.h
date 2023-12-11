@@ -20,6 +20,8 @@ public:
     void displayAccountInfo() const;
     void deposit(double amount);
     void withdraw(double amount);
+    virtual ~BankAccount(){}
+    int getAccountNumber() const { return accountNumber; }
 };
 
 #endif
